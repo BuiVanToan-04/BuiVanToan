@@ -1,0 +1,7 @@
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024_DataAcessNetFrameWork\bin\Debug\Solution_BE_102024_DataAcessNetFrameWork.exe.config
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024_DataAcessNetFrameWork\bin\Debug\Solution_BE_102024_DataAcessNetFrameWork.exe
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024_DataAcessNetFrameWork\bin\Debug\Solution_BE_102024_DataAcessNetFrameWork.pdb
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024_DataAcessNetFrameWork\obj\Debug\Solution_BE_102024_DataAcessNetFrameWork.csproj.AssemblyReference.cache
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024_DataAcessNetFrameWork\obj\Debug\Solution_BE_102024_DataAcessNetFrameWork.csproj.CoreCompileInputs.cache
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024_DataAcessNetFrameWork\obj\Debug\Solution_BE_102024_DataAcessNetFrameWork.exe
+D:\C# Thay_Quan\BE_092024\BuiVanToan\Solution_BE_102024\Solution_BE_102024_DataAcessNetFrameWork\obj\Debug\Solution_BE_102024_DataAcessNetFrameWork.pdb
